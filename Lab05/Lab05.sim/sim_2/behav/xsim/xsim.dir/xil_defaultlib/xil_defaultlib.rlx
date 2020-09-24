@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+H:/Lab05/Lab05/Lab05.sim/sim_2/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+H:/systemverilogcode/fulladder.sv,1600972262,systemVerilog,,H:/systemverilogcode/halfadder.sv,,fulladder,,,,,,,,
+H:/systemverilogcode/fulladder_test.sv,1600971979,systemVerilog,,,,fulladder_test,,,,,,,,
+H:/systemverilogcode/halfadder.sv,1600968292,systemVerilog,,H:/systemverilogcode/fulladder_test.sv,,halfadder,,,,,,,,
