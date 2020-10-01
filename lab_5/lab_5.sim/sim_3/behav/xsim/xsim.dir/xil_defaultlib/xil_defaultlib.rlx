@@ -3,7 +3,7 @@
 Aug  5 2020
 23:19:43
 C:/Users/aajos/Documents/GitHub/Lab05/lab_5/lab_5.sim/sim_3/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
-C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub.sv,1601562623,systemVerilog,,C:/Users/aajos/Documents/GitHub/Lab05/sv_files/fulladder.sv,,addsub,,,,,,,,
-C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv,1601565059,systemVerilog,,,,addsub_test,,,,,,,,
+C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub.sv,1601590569,systemVerilog,,C:/Users/aajos/Documents/GitHub/Lab05/sv_files/fulladder.sv,,addsub,,,,,,,,
+C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv,1601583105,systemVerilog,,,,addsub_test,,,,,,,,
 C:/Users/aajos/Documents/GitHub/Lab05/sv_files/fulladder.sv,1601560816,systemVerilog,,C:/Users/aajos/Documents/GitHub/Lab05/sv_files/halfadder.sv,,fulladder,,,,,,,,
 C:/Users/aajos/Documents/GitHub/Lab05/sv_files/halfadder.sv,1601559493,systemVerilog,,C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv,,halfadder,,,,,,,,

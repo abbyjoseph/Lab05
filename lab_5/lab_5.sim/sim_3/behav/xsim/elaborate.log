@@ -4,8 +4,13 @@ Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto fa1b1a1b70
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
-ERROR: [VRFC 10-395] cannot assign an unpacked type to a packed type [C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv:29]
-ERROR: [VRFC 10-395] cannot assign an unpacked type to a packed type [C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv:30]
-ERROR: [VRFC 10-395] cannot assign a packed type to an unpacked type [C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv:32]
-ERROR: [VRFC 10-395] cannot assign a packed type to an unpacked type [C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub.sv:28]
-ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.halfadder
+Compiling module xil_defaultlib.fulladder
+Compiling module xil_defaultlib.addsub
+Compiling module xil_defaultlib.addsub_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot addsub_test_behav

@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Thu Oct  1 12:06:36 2020
+# Process ID: 18164
+# Current directory: C:/Users/aajos/Documents/GitHub/Lab05/lab_5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13656 C:\Users\aajos\Documents\GitHub\Lab05\lab_5\lab_5.xpr
+# Log file: C:/Users/aajos/Documents/GitHub/Lab05/lab_5/vivado.log
+# Journal file: C:/Users/aajos/Documents/GitHub/Lab05/lab_5\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project C:/Users/aajos/Documents/GitHub/Lab05/lab_5/lab_5.xpruupdate_compile_order -fileset sources_1launch_simulation -simset [get_filesets sim_3 ]
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_3 ]
+source addsub_test.tcl

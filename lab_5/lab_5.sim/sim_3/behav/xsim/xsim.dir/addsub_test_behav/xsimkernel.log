@@ -1,0 +1,4 @@
+Running: xsim.dir/addsub_test_behav/xsimk.exe -simmode gui -wdb addsub_test_behav.wdb -simrunnum 0 -socket 58597
+Design successfully loaded
+Design Loading Memory Usage: 5396 KB (Peak: 5396 KB)
+Design Loading CPU Usage: 0 ms

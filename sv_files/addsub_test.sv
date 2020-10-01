@@ -22,16 +22,21 @@
 
 module addsub_test();
 
-reg a[1:0], b[1:0], m;
-wire c_out, sum[1:0];
+reg [1:0] a,b;
+reg m;
+wire [1:0] sum;
+wire c_out;
 
 addsub dut(
-    .a(a[1:0]),
-    .b(b[1:0]),
+    .a(a),
+    .b(b),
+    .m(m),
     .c_out(c_out),
-    .sum(sum[1:0])
+    .sum(sum)
     
     );
+    
+    
     
 initial begin
    m=0; a[1]= 0; a[0]= 0; b[1]= 0; b[0]= 0; #10
