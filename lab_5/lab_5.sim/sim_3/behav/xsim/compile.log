@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addsub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aajos/Documents/GitHub/Lab05/sv_files/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aajos/Documents/GitHub/Lab05/sv_files/halfadder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'c' is not allowed [C:/Users/aajos/Documents/GitHub/Lab05/sv_files/halfadder.sv:29]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aajos/Documents/GitHub/Lab05/sv_files/addsub_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addsub_test

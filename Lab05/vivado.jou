@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Wed Sep 30 15:05:50 2020
+# Process ID: 19900
+# Current directory: C:/Users/aajos/Documents/GitHub/Lab05/Lab05
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3616 C:\Users\aajos\Documents\GitHub\Lab05\Lab05\Lab05.xpr
+# Log file: C:/Users/aajos/Documents/GitHub/Lab05/Lab05/vivado.log
+# Journal file: C:/Users/aajos/Documents/GitHub/Lab05/Lab05\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/aajos/Documents/GitHub/Lab05/Lab05/Lab05.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_2
