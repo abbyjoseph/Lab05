@@ -27,3 +27,4 @@ source addsub_test.tcl
 close_sim
 launch_simulation -simset [get_filesets sim_3 ]
 source addsub_test.tcl
+close_sim

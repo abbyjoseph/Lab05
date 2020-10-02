@@ -17,8 +17,9 @@ INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
 open_project: Time (s): cpu = 00:00:28 ; elapsed = 00:00:12 . Memory (MB): peak = 1016.328 ; gain = 0.000
-update_compile_order -fileset sources_1launch_simulation -simset [get_filesets sim_3 ]
-Command: launch_simulation -simset sim_3
+update_compile_order -fileset sources_1lexit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  1 18:16:18 2020...
+ -simset sim_3
 INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/aajos/Documents/GitHub/Lab05/lab_5/lab_5.sim/sim_3/behav/xsim'
 INFO: [SIM-utils-51] Simulation object is 'sim_3'
 INFO: [SIM-utils-54] Inspecting design source files for 'addsub_test' in fileset 'sim_3'...
@@ -435,3 +436,7 @@ $finish called at time : 140 ns : File "C:/Users/aajos/Documents/GitHub/Lab05/sv
 INFO: [USF-XSim-96] XSim completed. Design snapshot 'addsub_test_behav' loaded.
 INFO: [USF-XSim-97] XSim simulation ran for 1000ns
 launch_simulation: Time (s): cpu = 00:00:04 ; elapsed = 00:00:07 . Memory (MB): peak = 1033.816 ; gain = 0.102
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  1 23:03:50 2020...

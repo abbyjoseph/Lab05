@@ -2,3 +2,6 @@ Running: xsim.dir/addsub_test_behav/xsimk.exe -simmode gui -wdb addsub_test_beha
 Design successfully loaded
 Design Loading Memory Usage: 5396 KB (Peak: 5396 KB)
 Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 6060 KB (Peak: 6060 KB)
+Simulation CPU Usage: 30 ms
